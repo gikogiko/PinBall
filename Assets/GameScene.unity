@@ -987,6 +987,7 @@ GameObject:
   - component: {fileID: 930165909}
   - component: {fileID: 930165908}
   - component: {fileID: 930165913}
+  - component: {fileID: 930165914}
   m_Layer: 0
   m_Name: Ball
   m_TagString: Untagged
@@ -1084,6 +1085,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2410fdcba24ad934e836f64a935fa380, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &930165914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 930165907}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd7cc33f8f031c54594c2aa88d27324c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1102849230
